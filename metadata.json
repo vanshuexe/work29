@@ -1,0 +1,6 @@
+{
+  "name": "Civiresa Institute - UPSC, State PCS, NEET, JEE & Tuitions Coaching",
+  "description": "Civiresa Institute official website featuring coaching for UPSC, State PCS, NEET, JEE (Advance & Mains) & School Tuitions with expert faculty, toppers, and batches.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
